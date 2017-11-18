@@ -7,3 +7,7 @@ just download it and use it
 see wiki for Tutorials
 
 and plase support me and this is made in intellij be sure to import this when using eclipse and netbeans
+
+wiki page: https://github.com/Diamondcreeper098/DCrypt/wiki
+
+download from here: https://github.com/Diamondcreeper098/DCrypt/releases
