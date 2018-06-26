@@ -1,5 +1,5 @@
 # DCrypt
-a Cool Cryptography library for java that uses Custom algorithm
+a Cool Cryptography library for java that uses caesar cipher algorithm
 just download it and use it
 
 **Notice this is an prototype thing to make this better please send any thing that can make this library better in issues tab + this library cannot encrypt files**
